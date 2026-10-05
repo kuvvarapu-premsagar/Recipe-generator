@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": ["pasta", "garlic", "olive oil", "parsley", "chili flakes", "salt", "pepper"],
+    "instructions": "1. Cook pasta in salted boiling water until al dente.\n2. While pasta cooks, slice garlic thinly and sauté in olive oil over medium-low heat until golden.\n3. Add chili flakes and cook 30 seconds.\n4. Drain pasta, reserving 1 cup pasta water.\n5. Toss pasta with garlic oil, adding pasta water to emulsify.\n6. Finish with fresh parsley, salt, and pepper.",
+    "cuisine": "Italian",
+    "prep_time": "5 min",
+    "cook_time": "15 min",
+    "servings": 2
+  },
+  {
+    "name": "Classic Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "garlic", "onion", "olive oil", "basil", "salt", "pepper"],
+    "instructions": "1. Sauté diced onion and garlic in olive oil until soft.\n2. Add chopped tomatoes and cook down for 20 minutes.\n3. Season with salt, pepper, and fresh basil.\n4. Cook pasta until al dente, then toss with sauce.\n5. Serve with extra basil on top.",
+    "cuisine": "Italian",
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "servings": 4
+  },
+  {
+    "name": "Garlic Butter Shrimp",
+    "ingredients": ["shrimp", "garlic", "butter", "lemon", "parsley", "salt", "pepper"],
+    "instructions": "1. Melt butter in a large pan over medium heat.\n2. Add minced garlic and cook for 1 minute.\n3. Add shrimp, season with salt and pepper, cook 2 min per side.\n4. Squeeze lemon juice over shrimp.\n5. Garnish with fresh parsley and serve immediately.",
+    "cuisine": "American",
+    "prep_time": "5 min",
+    "cook_time": "8 min",
+    "servings": 2
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "ingredients": ["rice", "egg", "carrot", "peas", "onion", "soy sauce", "garlic", "ginger", "oil"],
+    "instructions": "1. Cook rice and let it cool completely (day-old rice works best).\n2. Heat oil in a wok over high heat.\n3. Scramble eggs and set aside.\n4. Stir-fry onion, garlic, ginger, carrots, and peas.\n5. Add rice and stir-fry for 3-4 minutes.\n6. Add soy sauce and scrambled eggs, mix well.\n7. Serve hot.",
+    "cuisine": "Chinese",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 4
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["chicken", "bell pepper", "broccoli", "soy sauce", "garlic", "ginger", "sesame oil", "cornstarch", "oil"],
+    "instructions": "1. Slice chicken thinly and marinate in soy sauce and cornstarch.\n2. Heat oil in wok over high heat.\n3. Stir-fry chicken until cooked, set aside.\n4. Stir-fry garlic, ginger, bell pepper, and broccoli.\n5. Return chicken, add soy sauce and sesame oil.\n6. Toss everything together and serve over rice.",
+    "cuisine": "Chinese",
+    "prep_time": "15 min",
+    "cook_time": "12 min",
+    "servings": 3
+  },
+  {
+    "name": "Classic Omelette",
+    "ingredients": ["egg", "butter", "cheese", "salt", "pepper", "chives"],
+    "instructions": "1. Whisk eggs with salt and pepper until frothy.\n2. Melt butter in non-stick pan over medium heat.\n3. Pour in eggs and let set slightly at edges.\n4. Fold eggs gently while still slightly runny.\n5. Add cheese in center, fold omelette over.\n6. Slide onto plate and garnish with chives.",
+    "cuisine": "French",
+    "prep_time": "3 min",
+    "cook_time": "5 min",
+    "servings": 1
+  },
+  {
+    "name": "Avocado Toast",
+    "ingredients": ["bread", "avocado", "lemon", "salt", "chili flakes", "egg", "olive oil"],
+    "instructions": "1. Toast bread until golden and crisp.\n2. Mash avocado with lemon juice, salt, and chili flakes.\n3. Spread avocado mash on toast.\n4. Fry or poach an egg and place on top.\n5. Drizzle with olive oil and extra chili flakes.",
+    "cuisine": "American",
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "servings": 1
+  },
+  {
+    "name": "Tomato Basil Soup",
+    "ingredients": ["tomato", "onion", "garlic", "basil", "cream", "butter", "vegetable broth", "salt", "pepper"],
+    "instructions": "1. Sauté onion and garlic in butter until soft.\n2. Add chopped tomatoes and vegetable broth.\n3. Simmer for 20 minutes then blend until smooth.\n4. Stir in cream and fresh basil.\n5. Season with salt and pepper.\n6. Serve hot with crusty bread.",
+    "cuisine": "Italian",
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "servings": 4
+  },
+  {
+    "name": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushroom", "onion", "garlic", "white wine", "parmesan", "butter", "vegetable broth", "parsley"],
+    "instructions": "1. Warm broth in a separate pot.\n2. Sauté onion and garlic in butter, add mushrooms.\n3. Add rice and toast for 2 minutes.\n4. Add white wine and stir until absorbed.\n5. Add broth one ladle at a time, stirring constantly.\n6. Finish with parmesan, butter, and parsley.",
+    "cuisine": "Italian",
+    "prep_time": "10 min",
+    "cook_time": "30 min",
+    "servings": 4
+  },
+  {
+    "name": "Greek Salad",
+    "ingredients": ["tomato", "cucumber", "olive", "feta cheese", "red onion", "olive oil", "oregano", "salt", "lemon"],
+    "instructions": "1. Chop tomatoes, cucumbers, and red onion into chunks.\n2. Add olives and crumbled feta cheese.\n3. Drizzle generously with olive oil.\n4. Season with dried oregano, salt, and a squeeze of lemon.\n5. Toss gently and serve immediately.",
+    "cuisine": "Greek",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": 2
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": ["flour", "egg", "milk", "butter", "sugar", "baking powder", "salt", "vanilla"],
+    "instructions": "1. Mix flour, sugar, baking powder, and salt in a bowl.\n2. Whisk eggs, milk, melted butter, and vanilla together.\n3. Combine wet and dry ingredients until just mixed (lumps are OK).\n4. Heat a greased pan over medium heat.\n5. Pour batter and cook until bubbles form, then flip.\n6. Serve with maple syrup and butter.",
+    "cuisine": "American",
+    "prep_time": "5 min",
+    "cook_time": "15 min",
+    "servings": 4
+  },
+  {
+    "name": "Lemon Herb Chicken",
+    "ingredients": ["chicken", "lemon", "garlic", "rosemary", "thyme", "olive oil", "salt", "pepper"],
+    "instructions": "1. Marinate chicken with lemon juice, garlic, rosemary, thyme, olive oil, salt, and pepper.\n2. Let marinate for at least 30 minutes.\n3. Heat oven to 200°C (400°F).\n4. Roast chicken for 35-40 minutes until golden.\n5. Rest for 5 minutes before serving.\n6. Garnish with fresh lemon slices.",
+    "cuisine": "Mediterranean",
+    "prep_time": "40 min",
+    "cook_time": "40 min",
+    "servings": 4
+  },
+  {
+    "name": "Bean and Vegetable Soup",
+    "ingredients": ["bean", "carrot", "celery", "onion", "garlic", "tomato", "vegetable broth", "olive oil", "thyme", "salt"],
+    "instructions": "1. Sauté onion, garlic, carrot, and celery in olive oil.\n2. Add chopped tomatoes and thyme.\n3. Add beans and vegetable broth.\n4. Simmer for 25 minutes.\n5. Season with salt and pepper.\n6. Serve with crusty bread.",
+    "cuisine": "Mediterranean",
+    "prep_time": "10 min",
+    "cook_time": "30 min",
+    "servings": 6
+  },
+  {
+    "name": "Caprese Salad",
+    "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "balsamic vinegar", "salt", "pepper"],
+    "instructions": "1. Slice tomatoes and mozzarella into even rounds.\n2. Alternate slices on a plate.\n3. Tuck fresh basil leaves between slices.\n4. Drizzle with olive oil and balsamic vinegar.\n5. Season with salt and pepper.\n6. Serve immediately.",
+    "cuisine": "Italian",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": 2
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": ["beef", "taco shell", "tomato", "lettuce", "cheese", "sour cream", "onion", "garlic", "cumin", "chili powder", "lime"],
+    "instructions": "1. Brown ground beef with onion and garlic.\n2. Season with cumin, chili powder, salt.\n3. Warm taco shells in oven.\n4. Fill shells with beef mixture.\n5. Top with shredded lettuce, diced tomato, cheese, and sour cream.\n6. Finish with a squeeze of lime.",
+    "cuisine": "Mexican",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 4
+  },
+  {
+    "name": "Banana Smoothie",
+    "ingredients": ["banana", "milk", "yogurt", "honey", "vanilla", "ice"],
+    "instructions": "1. Peel and slice banana.\n2. Add banana, milk, yogurt, honey, and vanilla to blender.\n3. Add ice cubes.\n4. Blend until smooth and creamy.\n5. Pour into glass and enjoy.",
+    "cuisine": "American",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1
+  },
+  {
+    "name": "Potato Wedges",
+    "ingredients": ["potato", "olive oil", "garlic", "paprika", "salt", "pepper", "parsley"],
+    "instructions": "1. Preheat oven to 220°C (425°F).\n2. Cut potatoes into wedges.\n3. Toss with olive oil, minced garlic, paprika, salt, and pepper.\n4. Spread on baking sheet and roast for 35 minutes, flipping halfway.\n5. Garnish with parsley and serve with dipping sauce.",
+    "cuisine": "American",
+    "prep_time": "10 min",
+    "cook_time": "35 min",
+    "servings": 4
+  },
+  {
+    "name": "Dal Tadka",
+    "ingredients": ["lentil", "onion", "tomato", "garlic", "ginger", "cumin", "turmeric", "chili", "butter", "coriander", "salt"],
+    "instructions": "1. Boil lentils with turmeric until soft.\n2. In a pan, heat butter and add cumin seeds.\n3. Add onion, garlic, and ginger, cook until golden.\n4. Add tomatoes and chili, cook until soft.\n5. Pour tadka over lentils and mix.\n6. Garnish with fresh coriander and serve with rice or bread.",
+    "cuisine": "Indian",
+    "prep_time": "10 min",
+    "cook_time": "30 min",
+    "servings": 4
+  },
+  {
+    "name": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "tomato", "garlic", "ginger", "coconut milk", "curry powder", "cumin", "turmeric", "chili", "oil", "coriander"],
+    "instructions": "1. Heat oil and sauté onion until golden.\n2. Add garlic and ginger, cook 2 minutes.\n3. Add tomatoes and spices, cook until oil separates.\n4. Add chicken pieces and brown on all sides.\n5. Pour in coconut milk and simmer 20 minutes.\n6. Garnish with coriander and serve with rice.",
+    "cuisine": "Indian",
+    "prep_time": "15 min",
+    "cook_time": "35 min",
+    "servings": 4
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "parmesan", "crouton", "garlic", "lemon", "egg", "anchovy", "olive oil", "mustard", "worcestershire sauce"],
+    "instructions": "1. Make dressing: blend garlic, anchovies, lemon juice, egg yolk, mustard, worcestershire sauce.\n2. Slowly whisk in olive oil until creamy.\n3. Tear romaine into pieces.\n4. Toss lettuce with dressing.\n5. Top with croutons and shaved parmesan.\n6. Season with black pepper.",
+    "cuisine": "American",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": 2
+  },
+  {
+    "name": "Margherita Pizza",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil", "olive oil", "salt"],
+    "instructions": "1. Preheat oven to 250°C (480°F) with pizza stone inside.\n2. Stretch dough into a round shape.\n3. Spread tomato sauce evenly, leaving 1cm border.\n4. Add torn mozzarella pieces.\n5. Bake for 8-10 minutes until crust is golden.\n6. Top with fresh basil and drizzle with olive oil.",
+    "cuisine": "Italian",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 2
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "butter", "sugar", "brown sugar", "egg", "vanilla", "baking soda", "salt", "chocolate chips"],
+    "instructions": "1. Preheat oven to 180°C (350°F).\n2. Cream butter and sugars until fluffy.\n3. Beat in eggs and vanilla.\n4. Mix in flour, baking soda, and salt.\n5. Fold in chocolate chips.\n6. Drop spoonfuls on baking sheet and bake 10-12 minutes.\n7. Cool on wire rack.",
+    "cuisine": "American",
+    "prep_time": "15 min",
+    "cook_time": "12 min",
+    "servings": 24
+  },
+  {
+    "name": "Guacamole",
+    "ingredients": ["avocado", "lime", "tomato", "onion", "cilantro", "chili", "garlic", "salt"],
+    "instructions": "1. Halve and pit avocados, scoop flesh into bowl.\n2. Mash with a fork to desired consistency.\n3. Add lime juice, diced onion, tomato, cilantro, minced garlic, and chili.\n4. Mix well and season with salt.\n5. Serve immediately with tortilla chips.",
+    "cuisine": "Mexican",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": 4
+  },
+  {
+    "name": "French Onion Soup",
+    "ingredients": ["onion", "butter", "beef broth", "white wine", "thyme", "bay leaf", "bread", "gruyere cheese", "garlic", "salt", "pepper"],
+    "instructions": "1. Slowly caramelize sliced onions in butter for 45 minutes until deep golden.\n2. Add garlic and thyme, cook 2 minutes.\n3. Deglaze with white wine.\n4. Add beef broth, bay leaf, simmer 20 minutes.\n5. Ladle into oven-safe bowls.\n6. Top with bread slice and gruyere, broil until bubbly.",
+    "cuisine": "French",
+    "prep_time": "10 min",
+    "cook_time": "70 min",
+    "servings": 4
+  },
+  {
+    "name": "Shrimp Tacos",
+    "ingredients": ["shrimp", "taco shell", "cabbage", "lime", "cilantro", "sour cream", "garlic", "cumin", "paprika", "oil"],
+    "instructions": "1. Season shrimp with garlic, cumin, and paprika.\n2. Cook shrimp in oil for 2 minutes per side.\n3. Warm taco shells.\n4. Fill with shrimp and shredded cabbage.\n5. Top with sour cream and fresh cilantro.\n6. Squeeze lime juice over top.",
+    "cuisine": "Mexican",
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "servings": 2
+  },
+  {
+    "name": "Pesto Pasta",
+    "ingredients": ["pasta", "basil", "pine nuts", "parmesan", "garlic", "olive oil", "salt", "lemon"],
+    "instructions": "1. Blend basil, pine nuts, garlic, parmesan, and olive oil until smooth.\n2. Season pesto with salt and lemon juice.\n3. Cook pasta until al dente.\n4. Reserve 1/2 cup pasta water.\n5. Toss pasta with pesto, adding pasta water to loosen.\n6. Serve topped with extra parmesan.",
+    "cuisine": "Italian",
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 4
+  },
+  {
+    "name": "Scrambled Eggs",
+    "ingredients": ["egg", "butter", "milk", "salt", "pepper", "chives"],
+    "instructions": "1. Whisk eggs with milk, salt, and pepper.\n2. Melt butter in non-stick pan over low heat.\n3. Pour in eggs and stir slowly with spatula.\n4. Remove from heat while still slightly wet.\n5. Serve immediately garnished with chives.",
+    "cuisine": "American",
+    "prep_time": "2 min",
+    "cook_time": "5 min",
+    "servings": 1
+  },
+  {
+    "name": "Mango Lassi",
+    "ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom", "ice"],
+    "instructions": "1. Peel and chop ripe mangoes.\n2. Blend mango with yogurt, milk, sugar, and cardamom.\n3. Add ice and blend until smooth.\n4. Pour into tall glasses.\n5. Optionally garnish with a pinch of cardamom powder.",
+    "cuisine": "Indian",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 2
+  },
+  {
+    "name": "Minestrone",
+    "ingredients": ["tomato", "zucchini", "carrot", "celery", "onion", "garlic", "pasta", "bean", "vegetable broth", "olive oil", "basil", "parmesan"],
+    "instructions": "1. Sauté onion, garlic, carrot, and celery in olive oil.\n2. Add zucchini and cook 3 minutes.\n3. Add diced tomatoes, beans, and broth.\n4. Simmer for 15 minutes.\n5. Add pasta and cook until tender.\n6. Serve topped with basil and parmesan.",
+    "cuisine": "Italian",
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "servings": 6
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter", "garlic"],
+    "instructions": "1. Spread butter on outside of bread slices.\n2. Optionally rub a little garlic on buttered side.\n3. Place cheese between unbuttered sides.\n4. Grill in pan over medium heat.\n5. Press down gently and cook until golden brown on each side.\n6. Serve immediately.",
+    "cuisine": "American",
+    "prep_time": "2 min",
+    "cook_time": "8 min",
+    "servings": 1
+  },
+  {
+    "name": "Shakshuka",
+    "ingredients": ["egg", "tomato", "onion", "garlic", "bell pepper", "cumin", "paprika", "chili", "olive oil", "parsley", "feta cheese"],
+    "instructions": "1. Sauté onion, garlic, and bell pepper in olive oil.\n2. Add cumin, paprika, and chili, cook 1 minute.\n3. Add crushed tomatoes and simmer 10 minutes.\n4. Make wells in sauce and crack eggs into them.\n5. Cover and cook until eggs are just set.\n6. Top with crumbled feta and parsley.",
+    "cuisine": "Middle Eastern",
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 2
+  }
+]
